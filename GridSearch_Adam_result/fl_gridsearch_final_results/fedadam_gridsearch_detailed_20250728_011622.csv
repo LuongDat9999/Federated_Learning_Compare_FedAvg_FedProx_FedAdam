@@ -1,0 +1,5 @@
+eta,final_val_acc,final_val_loss,best_val_acc,best_round,experiment_time,converged,error
+0.001,0.4603254058330098,1.5180565747331884,0.5076184883127255,46,9553.663504600525,True,
+0.01,0.0,inf,0.0,0,0.0,False,name 'pd' is not defined
+0.03,0.0,inf,0.0,0,0.0,False,name 'pd' is not defined
+0.0001,0.0,inf,0.0,0,0.0,False,name 'pd' is not defined
