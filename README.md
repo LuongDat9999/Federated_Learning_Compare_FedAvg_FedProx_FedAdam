@@ -180,13 +180,6 @@ Các notebook trong repository chứa:
 2. Li, T., et al. "Federated optimization in heterogeneous networks." MLSys 2020.
 3. Reddi, S., et al. "Adaptive federated optimization." ICLR 2021.
 
-## 👨‍💻 Tác Giả
-
-**Lương Đạt**  
-🎓 Sinh viên Khoa Công nghệ Thông tin  
-📧 Email: luongdat9999@gmail.com  
-🔗 GitHub: [@LuongDat9999](https://github.com/LuongDat9999)
-
 
 ## 🙏 Lời Cảm Ơn
 
