@@ -10,9 +10,10 @@
 Đây là repository chứa toàn bộ code và kết quả thí nghiệm cho **Khóa Luận Tốt Nghiệp** với đề tài: **"So sánh hiệu suất các thuật toán Federated Learning: FedAvg, FedProx và FedAdam trên các bộ dữ liệu CIFAR-10 và Fashion-MNIST"**.
 
 ### 🏆 Kết Quả Đạt Được
-- **Điểm số**: **9.0/10** ⭐
+- **Điểm số**: **9.5/10** ⭐
 - **Đánh giá**: Xuất sắc
-- **Thời gian nghiên cứu**: 6 tháng
+- **Thời gian nghiên cứu**: 3 tháng
+- Số lượng sinh viên thực hiện: 2 người
 - **Số lượng thí nghiệm**: 50+ thí nghiệm với các cấu hình khác nhau
 
 ## 🎯 Mục Tiêu Nghiên Cứu
@@ -78,7 +79,7 @@ Federated_Learning_Compare_FedAvg_FedProx_FedAdam/
 - **🎓 Kết luận và hướng phát triển**: Đóng góp và đề xuất nghiên cứu tương lai
 - **📖 Tài liệu tham khảo**: Danh sách đầy đủ các paper liên quan
 
-> 💡 **Lưu ý**: Đây là báo cáo khóa luận tốt nghiệp đạt điểm **9.0/10**, được đánh giá xuất sắc bởi hội đồng chấm thi.
+> 💡 **Lưu ý**: Đây là báo cáo khóa luận tốt nghiệp đạt điểm **9.5/10**, được đánh giá xuất sắc bởi hội đồng chấm thi(gồm 3 giảng viên).
 
 ---
 
@@ -186,14 +187,12 @@ Các notebook trong repository chứa:
 📧 Email: luongdat9999@gmail.com  
 🔗 GitHub: [@LuongDat9999](https://github.com/LuongDat9999)
 
-## 📄 License
-
-Dự án này được phát hành dưới [MIT License](LICENSE).
 
 ## 🙏 Lời Cảm Ơn
 
-- Giảng viên hướng dẫn: **TS. [Tên giảng viên]**
-- Khoa Công nghệ Thông tin, Trường Đại học [Tên trường]
+- Giảng viên hướng dẫn: **TS. Huỳnh Thành Lộc**
+- Partner: Nguyễn Anh Huy
+- Khoa Công nghệ Thông tin, Trường Đại học HUFLIT
 - Cộng đồng Flower Framework và PyTorch
 
 ---
