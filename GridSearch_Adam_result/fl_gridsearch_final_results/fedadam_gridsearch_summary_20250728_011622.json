@@ -1,0 +1,71 @@
+{
+  "experiment_info": {
+    "timestamp": "20250728_011622",
+    "algorithm": "FedAdam",
+    "parameter_optimized": "eta (server_learning_rate)",
+    "eta_values_tested": [
+      0.01,
+      0.03,
+      0.001,
+      0.0001
+    ],
+    "optimal_eta": 0.001,
+    "total_grid_search_time_minutes": 633.3166232546171,
+    "config": {
+      "num_rounds": 50,
+      "num_partitions": 20,
+      "batch_size": 20,
+      "client_lr": 0.0031622776601683794,
+      "epochs_per_round": 2,
+      "alpha": 0.3,
+      "beta_1": 0.9,
+      "beta_2": 0.99,
+      "tau": 0.001
+    }
+  },
+  "results_by_eta": {
+    "0.01": {
+      "final_val_acc": 0,
+      "final_val_loss": Infinity,
+      "best_val_acc": 0,
+      "best_round": 0,
+      "experiment_time": 0,
+      "converged": false,
+      "error": "name 'pd' is not defined"
+    },
+    "0.03": {
+      "final_val_acc": 0,
+      "final_val_loss": Infinity,
+      "best_val_acc": 0,
+      "best_round": 0,
+      "experiment_time": 0,
+      "converged": false,
+      "error": "name 'pd' is not defined"
+    },
+    "0.001": {
+      "final_val_acc": 0.4603254058330098,
+      "final_val_loss": 1.5180565747331884,
+      "best_val_acc": 0.5076184883127255,
+      "best_round": 46,
+      "experiment_time": 9553.663504600525,
+      "converged": true
+    },
+    "0.0001": {
+      "final_val_acc": 0,
+      "final_val_loss": Infinity,
+      "best_val_acc": 0,
+      "best_round": 0,
+      "experiment_time": 0,
+      "converged": false,
+      "error": "name 'pd' is not defined"
+    }
+  },
+  "optimal_result": {
+    "final_val_acc": 0.4603254058330098,
+    "final_val_loss": 1.5180565747331884,
+    "best_val_acc": 0.5076184883127255,
+    "best_round": 46,
+    "experiment_time": 9553.663504600525,
+    "converged": true
+  }
+}
