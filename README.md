@@ -56,8 +56,31 @@ Federated_Learning_Compare_FedAvg_FedProx_FedAdam/
 ├── 📓 FMNIST_Time_*_fl_pretrain.ipynb  # Notebooks phân tích thời gian
 ├── 📓 Time_*_fl_pretrain_*.ipynb       # Notebooks thí nghiệm chính
 ├── 📄 requirements.txt              # Dependencies
-└── 📄 Báo_cáo_KLTN.pdf             # Báo cáo khóa luận
+├── 📄 Report_FL_Compare.pdf        # 📚 Báo cáo khóa luận đầy đủ
+└── 📄 Báo_cáo_KLTN.pdf             # Báo cáo khóa luận (backup)
 ```
+
+## 📚 Báo Cáo Khóa Luận
+
+### 📄 **[Report_FL_Compare.pdf](Report_FL_Compare.pdf)** - Báo cáo đầy đủ
+
+[![PDF](https://img.shields.io/badge/📄-Báo%20Cáo%20PDF-red.svg)](Report_FL_Compare.pdf)
+[![Size](https://img.shields.io/badge/Size-6MB-blue.svg)](Report_FL_Compare.pdf)
+[![Grade](https://img.shields.io/badge/Điểm-9.0-brightgreen.svg)](Report_FL_Compare.pdf)
+
+**📖 Nội dung báo cáo bao gồm:**
+
+- **🎯 Tổng quan nghiên cứu**: Mục tiêu, phạm vi và đóng góp khoa học
+- **📚 Tổng quan lý thuyết**: Cơ sở lý thuyết về Federated Learning
+- **🔬 Phương pháp nghiên cứu**: Thiết kế thí nghiệm và metrics đánh giá
+- **📊 Kết quả thí nghiệm**: Phân tích chi tiết hiệu suất các thuật toán
+- **📈 Biểu đồ và visualization**: Convergence curves, accuracy comparisons
+- **🎓 Kết luận và hướng phát triển**: Đóng góp và đề xuất nghiên cứu tương lai
+- **📖 Tài liệu tham khảo**: Danh sách đầy đủ các paper liên quan
+
+> 💡 **Lưu ý**: Đây là báo cáo khóa luận tốt nghiệp đạt điểm **9.0/10**, được đánh giá xuất sắc bởi hội đồng chấm thi.
+
+---
 
 ## 🚀 Cài Đặt và Chạy Thí Nghiệm
 
