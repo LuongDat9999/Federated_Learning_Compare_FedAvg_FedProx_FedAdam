@@ -190,7 +190,7 @@ Các notebook trong repository chứa:
 
 ## 🙏 Lời Cảm Ơn
 
-- Giảng viên hướng dẫn: **TS. Huỳnh Thành Lộc**
+- Giảng viên hướng dẫn: **ThS. Huỳnh Thành Lộc**
 - Partner: Nguyễn Anh Huy
 - Khoa Công nghệ Thông tin, Trường Đại học HUFLIT
 - Cộng đồng Flower Framework và PyTorch
